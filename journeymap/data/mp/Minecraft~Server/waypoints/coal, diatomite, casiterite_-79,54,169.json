@@ -1,0 +1,18 @@
+{
+  "id": "coal, diatomite, casiterite_-79,54,169",
+  "name": "coal, diatomite, casiterite",
+  "icon": "waypoint-normal.png",
+  "x": -79,
+  "y": 54,
+  "z": 169,
+  "r": 194,
+  "g": 197,
+  "b": 152,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
